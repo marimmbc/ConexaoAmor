@@ -13,7 +13,7 @@ O objetivo do projeto Conexão Amor é buscar garantir que os recursos financeir
 
 5: Eu como usuario administrador, gostria de ter acesso a uma planilha com todos os alunos inscritos
 
-6:Eu como usuario professor ,gostaria de aplicar a auto avaliação dos gotinhos na minha sala
+6: Eu como usuario professor ,gostaria de aplicar a auto avaliação dos gotinhos na minha sala
 
 # Histórias que serão implementadas :
 
