@@ -15,7 +15,7 @@ Histórias de usuário :
 
 6:Eu como usuario professor ,gostaria de aplicar a auto avaliação dos gotinhos na minha sala
 
-# 5 Histórias que serão implementadas :
+# Histórias que serão implementadas :
 
 4:Eu como administrador, gostaria de poder cadastrar os gotinhas
 
