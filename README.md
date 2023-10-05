@@ -9,15 +9,15 @@ O objetivo do projeto Conexão Amor é buscar garantir que os recursos financeir
 
 3: Eu como usuario gotinha, gostaria de fazer uma autoavaliação por emojis
 
-4:Eu como administrador, gostaria de poder cadastrar os gotinhas
+4: Eu como administrador, gostaria de poder cadastrar os gotinhas
 
-5:Eu como usuario administrador, gostria de ter acesso a uma planilha com todos os alunos inscritos
+5: Eu como usuario administrador, gostria de ter acesso a uma planilha com todos os alunos inscritos
 
 6:Eu como usuario professor ,gostaria de aplicar a auto avaliação dos gotinhos na minha sala
 
 # Histórias que serão implementadas :
 
-4:Eu como administrador, gostaria de poder cadastrar os gotinhas
+4: Eu como administrador, gostaria de poder cadastrar os gotinhas
 
-5:Eu como usuario administrador, gostria de ter acesso a uma planilha com todos os alunos inscritos
+5: Eu como usuario administrador, gostria de ter acesso a uma planilha com todos os alunos inscritos
 
