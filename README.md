@@ -17,7 +17,7 @@ Histórias de usuário :
 
 Histórias que serão implementadas :
 
-1:Eu como administrador, gostaria de poder cadastrar os gotinhas
+4:Eu como administrador, gostaria de poder cadastrar os gotinhas
 
-2:Eu como usuario administrador, gostria de ter acesso a uma planilha com todos os alunos inscritos
+5:Eu como usuario administrador, gostria de ter acesso a uma planilha com todos os alunos inscritos
 
