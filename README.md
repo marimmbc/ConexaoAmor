@@ -5,9 +5,9 @@ Histórias de usuário :
 
 1: Eu como usuario professor, gostaria de poder relatar a freguência dos gotinhas
 
-2:Eu como administrador, gostaria de poder selecionar os alunos e ver todos os seus relatórios e atividades.
+2: Eu como administrador, gostaria de poder selecionar os alunos e ver todos os seus relatórios e atividades.
 
-3:Eu como usuario gotinha, gostaria de fazer uma autoavaliação por emojis
+3: Eu como usuario gotinha, gostaria de fazer uma autoavaliação por emojis
 
 4:Eu como administrador, gostaria de poder cadastrar os gotinhas
 
@@ -15,7 +15,7 @@ Histórias de usuário :
 
 6:Eu como usuario professor ,gostaria de aplicar a auto avaliação dos gotinhos na minha sala
 
-# 5Histórias que serão implementadas :
+# 5 Histórias que serão implementadas :
 
 4:Eu como administrador, gostaria de poder cadastrar os gotinhas
 
