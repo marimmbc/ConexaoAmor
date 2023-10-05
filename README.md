@@ -1,7 +1,7 @@
 # ConexaoAmor
 O objetivo do projeto Conexão Amor é buscar garantir que os recursos financeiros destinados à ONG sejam utilizados de forma transparente e responsável, assegurando que cada centavo contribua diretamente para melhorar a vida das crianças e jovens atendidos
 
-Histórias de usuário :
+# Histórias de usuário :
 
 1: Eu como usuario professor, gostaria de poder relatar a freguência dos gotinhas
 
