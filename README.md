@@ -21,3 +21,8 @@ O objetivo do projeto Conexão Amor é buscar garantir que os recursos financeir
 
 5: Eu como usuario administrador, gostria de ter acesso a uma planilha com todos os alunos inscritos
 
+# Screecast do protótipo de baixa fidelidade : 
+
+https://github.com/marimmbc/ConexaoAmor/assets/137455847/c25f4220-4a0b-4bbd-8533-7cfb9a17c61e
+
+
