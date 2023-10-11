@@ -3,8 +3,8 @@ O objetivo do projeto Conexão Amor é buscar garantir que os recursos financeir
 
 # Link do nosso Figma : https://www.figma.com/file/fbAR53lQXr4R9CuxluJzaL/Conex%C3%A3o-Amor?type=design&node-id=27%3A2&mode=design&t=pGFmNzrnC3WqM2iN-1
 
-#  Link do nosso site : https://sites.google.com/d/1Pf6pIF0atpqDlYzBQ04sX6xtU55tSJTr/p/1mC4Bqec337k5lh6HlCIpFvn3Sd-2scxr/edit
-
+# Link do nosso site :
+[**link do nosso site **]( https://sites.google.com/d/1Pf6pIF0atpqDlYzBQ04sX6xtU55tSJTr/p/1mC4Bqec337k5lh6HlCIpFvn3Sd-2scxr/edit)
 # Histórias de usuário :
 
 1: Eu como usuario professor, gostaria de poder relatar a freguência dos gotinhas
@@ -32,6 +32,7 @@ https://github.com/marimmbc/ConexaoAmor/assets/137455847/c25f4220-4a0b-4bbd-8533
 # Diagrama de atividades do sistema :
 
 ![WhatsApp Image 2023-10-10 at 17 53 55](https://github.com/marimmbc/ConexaoAmor/assets/137455847/fa3daa97-48df-435a-96ba-e204d065c7fc)
+
 
 # Relato da experiência em programação em par experimentado :
 
