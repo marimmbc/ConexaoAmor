@@ -3,8 +3,8 @@ O objetivo do projeto Conexão Amor é buscar garantir que os recursos financeir
 
 # Link do nosso Figma : https://www.figma.com/file/fbAR53lQXr4R9CuxluJzaL/Conex%C3%A3o-Amor?type=design&node-id=27%3A2&mode=design&t=pGFmNzrnC3WqM2iN-1
 
-# Link do nosso site :
-[**link do nosso site **]( https://sites.google.com/d/1Pf6pIF0atpqDlYzBQ04sX6xtU55tSJTr/p/1mC4Bqec337k5lh6HlCIpFvn3Sd-2scxr/edit)
+# [**link do nosso site**]( https://sites.google.com/d/1Pf6pIF0atpqDlYzBQ04sX6xtU55tSJTr/p/1mC4Bqec337k5lh6HlCIpFvn3Sd-2scxr/edit)
+
 # Histórias de usuário :
 
 1: Eu como usuario professor, gostaria de poder relatar a freguência dos gotinhas
