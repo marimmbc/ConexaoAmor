@@ -33,3 +33,8 @@ https://github.com/marimmbc/ConexaoAmor/assets/137455847/c25f4220-4a0b-4bbd-8533
 
 ![WhatsApp Image 2023-10-10 at 17 53 55](https://github.com/marimmbc/ConexaoAmor/assets/137455847/fa3daa97-48df-435a-96ba-e204d065c7fc)
 
+# Relato da experiência em programação em par experimentado :
+
+Discussão: Ao concluir o projeto, observamos que a programação em par demandou mais tempo do que se cada um de nós tivesse programado individualmente, principalmente devido às discussões frequentes. No entanto, o código resultante revelou-se de alta qualidade, com menos erros e uma estrutura mais sólida. A experiência, embora desafiadora, foi incrivelmente enriquecedora. A colaboração estreita permitiu que trocássemos ideias e aprendêssemos uns com os outros, aprimorando nossos conhecimentos e habilidades.
+
+Considerações Finais: Nossa experiência destacou a importância da programação em par em projetos que exigem alta qualidade e colaboração. Com o tempo, à medida que nos tornamos mais familiarizados com a abordagem e a forma de trabalhar juntos, esperamos que a eficiência melhore. 
